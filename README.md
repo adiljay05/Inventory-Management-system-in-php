@@ -1,0 +1,2 @@
+# Inventory-Management-system-in-php
+This is a complete inventory management system in php,html,javascript and MySQL. &lt;br> A custom admin panel is also added. Admin can add,remove, update item but the salesman can't change anything from database. The purpose of this system is for those people who have more than one shops but have trust issue with their salesman. My system would keep check and balance of every sale.
